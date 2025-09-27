@@ -65,4 +65,4 @@ In this section I go through the process of observing continuous ICMP trafiic fr
 <img src="https://imgur.com/LLnCKlK.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
+LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/wahidonchain/Azure-Compute-and-Networking
